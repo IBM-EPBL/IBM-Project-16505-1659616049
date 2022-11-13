@@ -20,7 +20,7 @@
 
 ## Team Member 1
 
-   ### Mohamed Ranton Nigil R
+   ### Ranton Nigil R
 
    #### Assignment 01 :  [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%201/Assignment%201/Ranton)
 
