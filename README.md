@@ -85,7 +85,7 @@
  
    ### Project Design Phase 1 :
    
-   #### Proposed Solution     : [ProposedSolution.pdf](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/blob/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf)
+   #### Proposed Solution     : [ProposedSolution.pdf](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/blob/main/Project%20Design%20And%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf)
 		  
    #### Solution Fit          : [Problem_solution_fit .pdf](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/blob/main/Project%20Design%20And%20Planning/Project%20Design%20Phase%201/Problem_solution_fit%20.pdf)
 		  
