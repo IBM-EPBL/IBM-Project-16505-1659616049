@@ -10,49 +10,49 @@
 
    ### Prasad M
 
-   #### Assignment 01 :   [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Leader/Assignment%201/Prasad%20M)
+   #### Assignment 01 :   [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Prasad%20M/Assignment%201/Prasad%20M)
 
-   #### Assignment 02 :   [Assignment2](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Leader/Assignment%202)
+   #### Assignment 02 :   [Assignment2](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Prasad%20M/Assignment%202)
    
-   #### Assignment 03 :   [Assignment3](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Leader/Assignment%203)
+   #### Assignment 03 :   [Assignment3](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Prasad%20M/Assignment%203)
    
-   #### Assignment 04 :   [Assignment4](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Leader/Assignment%204)
+   #### Assignment 04 :   [Assignment4](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Prasad%20M/Assignment%204)
 
 ## Team Member 1
 
    ### Ranton Nigil R
 
-   #### Assignment 01 :  [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%201/Assignment%201/Ranton)
+   #### Assignment 01 :  [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Ranton%20/Assignment%201/Ranton)
 
-  #### Assignment 02 :   [Assignment2](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%201/Assignment%202)
+  #### Assignment 02 :   [Assignment2](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Ranton%20/Assignment%202)
    
-  #### Assignment 03 :   [Assignment3](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%201/Assignment%203)
+  #### Assignment 03 :   [Assignment3](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Ranton%20/Assignment%203)
    
-  #### Assignment 04 :   [Assignment4](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%201/Assignment%204)
+  #### Assignment 04 :   [Assignment4](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Ranton%20/Assignment%204)
 
 ## Team Member 2
 
    ### Naveen A
 
-   #### Assignment 01 : [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%202/Assignment%201/Naveen)
+   #### Assignment 01 : [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Naveen%20/Assignment%201/Naveen)
 
-  #### Assignment 02 :  [Assignment2](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%202/Assignment%202)
+  #### Assignment 02 :  [Assignment2](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Naveen%20/Assignment%202)
    
-  #### Assignment 03 :  [Assignment3](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%202/Assignment%203)
+  #### Assignment 03 :  [Assignment3](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Naveen%20/Assignment%203)
    
-  #### Assignment 04 :  [Assignment4](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%202/Assignment%204)
+  #### Assignment 04 :  [Assignment4](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Naveen%20/Assignment%204)
 
 ## Team Member 3
 
   ### Nandha Kishore G
 
-  #### Assignment 01 : [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%203/Assignment%201/Nandha%20Kishore) 
+  #### Assignment 01 : [Assignment1](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Nandha Kishore%20/Assignment%201/Nandha%20Kishore) 
 
-  #### Assignment 02 : [Assignment2](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%203/ASSIGNMENT%202)
+  #### Assignment 02 : [Assignment2](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Nandha Kishore%20/ASSIGNMENT%202)
    
-  #### Assignment 03 : [Assignment3](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%203/Assignment%203)
+  #### Assignment 03 : [Assignment3](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Nandha Kishore%20/Assignment%203)
    
-  #### Assignment 04 : [Assignment4](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Team%20Member%203/Assignment%204)
+  #### Assignment 04 : [Assignment4](https://github.com/IBM-EPBL/IBM-Project-16505-1659616049/tree/main/Assignments/Nandha Kishore%20/Assignment%204)
 
 
  ## Ideation Phase :
